@@ -19,8 +19,8 @@ Follow link --------- to view a tutorial video on how to access and initialize t
     
 # Resources
     
-<li></li>
+<li>https://www.testim.io/blog/jest-testing-a-helpful-introductory-tutorial/</li>
 
-<li></li>
+<li>https://javascript.plainenglish.io/how-to-inquirer-js-c10a4e05ef1f</li>
 
-<li></li>
+<li>https://en.wikipedia.org/wiki/SVG</li>
