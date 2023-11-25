@@ -24,3 +24,7 @@ Follow link --------- to view a tutorial video on how to access and initialize t
 <li>https://javascript.plainenglish.io/how-to-inquirer-js-c10a4e05ef1f</li>
 
 <li>https://en.wikipedia.org/wiki/SVG</li>
+
+<li>https://www.educative.io/answers/how-to-use-the-inquirer-node-package</li>
+
+<li>https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Basic_Shapes</li>
