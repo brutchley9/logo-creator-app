@@ -1,5 +1,5 @@
-const CLI = require('./lib/cli.js');
+const generateSVG = require('./lib/cli.js');
 
-const cli = new CLI();
+const svg = new generateSVG();
 
-cli.run();
+svg.run();
