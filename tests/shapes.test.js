@@ -1,6 +1,6 @@
 /*const sum = require('../lib/shapes')*/
 
-const {Square, Triangle, Circle} = ('../lib/shapes')
+const {Square, Triangle, Circle} = require('../lib/shapes')
 
 
 
@@ -16,9 +16,9 @@ const {Square, Triangle, Circle} = ('../lib/shapes')
 
 describe('Square', () => {
     it ("should render a string of code corresponding to the square shape", () => {
-        square = new Square;
+        square = new Square();
         const shapecolor = "green"
-        const result = square.isEqual(`<rect x="10" y="10" width="100" height="100" fill="${shapecolor}"/>`)
+        const result = square.render(`<rect x="10" y="10" width="100" height="100" fill="${shapecolor}"/>`)
         expect(result).toEqual('<rect x="10" y="10" width="100" height="100" fill="green"/>')
     })
 });
