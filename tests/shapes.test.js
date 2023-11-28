@@ -1,6 +1,6 @@
-/*const sum = require('../lib/shapes')*/
-
 const {Square, Triangle, Circle} = require('../lib/shapes')
+
+/*const sum = require('../lib/shapes')*/
 
 
 
@@ -9,7 +9,7 @@ const {Square, Triangle, Circle} = require('../lib/shapes')
 
 
 /*test('Accurately produces a sum of two entered numbers', () => {
-    expect(sum(1, 2)).toBe(3)
+    expect(sum(1, 2)).toEqual(3)
 });*/
 
 //verified Jest is correctly installed by utilizing simple sum function, and test passes on my device.
