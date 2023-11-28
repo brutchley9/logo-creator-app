@@ -28,3 +28,5 @@ Follow link --------- to view a tutorial video on how to access and initialize t
 <li>https://www.educative.io/answers/how-to-use-the-inquirer-node-package</li>
 
 <li>https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Basic_Shapes</li>
+
+<li>https://stackoverflow.com/questions/69051200/how-to-test-if-a-component-is-rendered-or-not-by-jest-and-enzyme</li>
